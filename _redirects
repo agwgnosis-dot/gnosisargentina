@@ -1,0 +1,186 @@
+# ════════════════════════════════════════════════════════════
+# REGLAS DE REDIRECCIÓN PARA AGW GNOSIS (CLOUDFLARE PAGES)
+# ════════════════════════════════════════════════════════════
+
+# 🌟 CICLO A (01 al 22)
+/a01 /curso-de-gnosis.html#/A01 302
+/A01 /curso-de-gnosis.html#/A01 302
+/a02 /curso-de-gnosis.html#/A02 302
+/A02 /curso-de-gnosis.html#/A02 302
+/a03 /curso-de-gnosis.html#/A03 302
+/A03 /curso-de-gnosis.html#/A03 302
+/a04 /curso-de-gnosis.html#/A04 302
+/A04 /curso-de-gnosis.html#/A04 302
+/a05 /curso-de-gnosis.html#/A05 302
+/A05 /curso-de-gnosis.html#/A05 302
+/a06 /curso-de-gnosis.html#/A06 302
+/A06 /curso-de-gnosis.html#/A06 302
+/a07 /curso-de-gnosis.html#/A07 302
+/A07 /curso-de-gnosis.html#/A07 302
+/a08 /curso-de-gnosis.html#/A08 302
+/A08 /curso-de-gnosis.html#/A08 302
+/a09 /curso-de-gnosis.html#/A09 302
+/A09 /curso-de-gnosis.html#/A09 302
+/a10 /curso-de-gnosis.html#/A10 302
+/A10 /curso-de-gnosis.html#/A10 302
+/a11 /curso-de-gnosis.html#/A11 302
+/A11 /curso-de-gnosis.html#/A11 302
+/a12 /curso-de-gnosis.html#/A12 302
+/A12 /curso-de-gnosis.html#/A12 302
+/a13 /curso-de-gnosis.html#/A13 302
+/A13 /curso-de-gnosis.html#/A13 302
+/a14 /curso-de-gnosis.html#/A14 302
+/A14 /curso-de-gnosis.html#/A14 302
+/a15 /curso-de-gnosis.html#/A15 302
+/A15 /curso-de-gnosis.html#/A15 302
+/a16 /curso-de-gnosis.html#/A16 302
+/A16 /curso-de-gnosis.html#/A16 302
+/a17 /curso-de-gnosis.html#/A17 302
+/A17 /curso-de-gnosis.html#/A17 302
+/a18 /curso-de-gnosis.html#/A18 302
+/A18 /curso-de-gnosis.html#/A18 302
+/a19 /curso-de-gnosis.html#/A19 302
+/A19 /curso-de-gnosis.html#/A19 302
+/a20 /curso-de-gnosis.html#/A20 302
+/A20 /curso-de-gnosis.html#/A20 302
+/a21 /curso-de-gnosis.html#/A21 302
+/A21 /curso-de-gnosis.html#/A21 302
+/a22 /curso-de-gnosis.html#/A22 302
+/A22 /curso-de-gnosis.html#/A22 302
+
+# 🌟 CICLO B (01 al 17)
+/b01 /curso-de-gnosis.html#/B01 302
+/B01 /curso-de-gnosis.html#/B01 302
+/b02 /curso-de-gnosis.html#/B02 302
+/B02 /curso-de-gnosis.html#/B02 302
+/b03 /curso-de-gnosis.html#/B03 302
+/B03 /curso-de-gnosis.html#/B03 302
+/b04 /curso-de-gnosis.html#/B04 302
+/B04 /curso-de-gnosis.html#/B04 302
+/b05 /curso-de-gnosis.html#/B05 302
+/B05 /curso-de-gnosis.html#/B05 302
+/b06 /curso-de-gnosis.html#/B06 302
+/B06 /curso-de-gnosis.html#/B06 302
+/b07 /curso-de-gnosis.html#/B07 302
+/B07 /curso-de-gnosis.html#/B07 302
+/b08 /curso-de-gnosis.html#/B08 302
+/B08 /curso-de-gnosis.html#/B08 302
+/b09 /curso-de-gnosis.html#/B09 302
+/B09 /curso-de-gnosis.html#/B09 302
+/b10 /curso-de-gnosis.html#/B10 302
+/B10 /curso-de-gnosis.html#/B10 302
+/b11 /curso-de-gnosis.html#/B11 302
+/B11 /curso-de-gnosis.html#/B11 302
+/b12 /curso-de-gnosis.html#/B12 302
+/B12 /curso-de-gnosis.html#/B12 302
+/b13 /curso-de-gnosis.html#/B13 302
+/B13 /curso-de-gnosis.html#/B13 302
+/b14 /curso-de-gnosis.html#/B14 302
+/B14 /curso-de-gnosis.html#/B14 302
+/b15 /curso-de-gnosis.html#/B15 302
+/B15 /curso-de-gnosis.html#/B15 302
+/b16 /curso-de-gnosis.html#/B16 302
+/B16 /curso-de-gnosis.html#/B16 302
+/b17 /curso-de-gnosis.html#/B17 302
+/B17 /curso-de-gnosis.html#/B17 302
+
+# 🌟 CICLO C (01 al 17)
+/c01 /curso-de-gnosis.html#/C01 302
+/C01 /curso-de-gnosis.html#/C01 302
+/c02 /curso-de-gnosis.html#/C02 302
+/C02 /curso-de-gnosis.html#/C02 302
+/c03 /curso-de-gnosis.html#/C03 302
+/C03 /curso-de-gnosis.html#/C03 302
+/c04 /curso-de-gnosis.html#/C04 302
+/C04 /curso-de-gnosis.html#/C04 302
+/c05 /curso-de-gnosis.html#/C05 302
+/C05 /curso-de-gnosis.html#/C05 302
+/c06 /curso-de-gnosis.html#/C06 302
+/C06 /curso-de-gnosis.html#/C06 302
+/c07 /curso-de-gnosis.html#/C07 302
+/C07 /curso-de-gnosis.html#/C07 302
+/c08 /curso-de-gnosis.html#/C08 302
+/C08 /curso-de-gnosis.html#/C08 302
+/c09 /curso-de-gnosis.html#/C09 302
+/C09 /curso-de-gnosis.html#/C09 302
+/c10 /curso-de-gnosis.html#/C10 302
+/C10 /curso-de-gnosis.html#/C10 302
+/c11 /curso-de-gnosis.html#/C11 302
+/C11 /curso-de-gnosis.html#/C11 302
+/c12 /curso-de-gnosis.html#/C12 302
+/C12 /curso-de-gnosis.html#/C12 302
+/c13 /curso-de-gnosis.html#/C13 302
+/C13 /curso-de-gnosis.html#/C13 302
+/c14 /curso-de-gnosis.html#/C14 302
+/C14 /curso-de-gnosis.html#/C14 302
+/c15 /curso-de-gnosis.html#/C15 302
+/C15 /curso-de-gnosis.html#/C15 302
+/c16 /curso-de-gnosis.html#/C16 302
+/C16 /curso-de-gnosis.html#/C16 302
+/c17 /curso-de-gnosis.html#/C17 302
+/C17 /curso-de-gnosis.html#/C17 302
+
+# 🌟 CICLO D (01 al 22)
+/d01 /curso-de-gnosis.html#/D01 302
+/D01 /curso-de-gnosis.html#/D01 302
+/d02 /curso-de-gnosis.html#/D02 302
+/D02 /curso-de-gnosis.html#/D02 302
+/d03 /curso-de-gnosis.html#/D03 302
+/D03 /curso-de-gnosis.html#/D03 302
+/d04 /curso-de-gnosis.html#/D04 302
+/D04 /curso-de-gnosis.html#/D04 302
+/d05 /curso-de-gnosis.html#/D05 302
+/D05 /curso-de-gnosis.html#/D05 302
+/d06 /curso-de-gnosis.html#/D06 302
+/D06 /curso-de-gnosis.html#/D06 302
+/d07 /curso-de-gnosis.html#/D07 302
+/D07 /curso-de-gnosis.html#/D07 302
+/d08 /curso-de-gnosis.html#/D08 302
+/D08 /curso-de-gnosis.html#/D08 302
+/d09 /curso-de-gnosis.html#/D09 302
+/D09 /curso-de-gnosis.html#/D09 302
+/d10 /curso-de-gnosis.html#/D10 302
+/D10 /curso-de-gnosis.html#/D10 302
+/d11 /curso-de-gnosis.html#/D11 302
+/D11 /curso-de-gnosis.html#/D11 302
+/d12 /curso-de-gnosis.html#/D12 302
+/D12 /curso-de-gnosis.html#/D12 302
+/d13 /curso-de-gnosis.html#/D13 302
+/D13 /curso-de-gnosis.html#/D13 302
+/d14 /curso-de-gnosis.html#/D14 302
+/D14 /curso-de-gnosis.html#/D14 302
+/d15 /curso-de-gnosis.html#/D15 302
+/D15 /curso-de-gnosis.html#/D15 302
+/d16 /curso-de-gnosis.html#/D16 302
+/D16 /curso-de-gnosis.html#/D16 302
+/d17 /curso-de-gnosis.html#/D17 302
+/D17 /curso-de-gnosis.html#/D17 302
+/d18 /curso-de-gnosis.html#/D18 302
+/D18 /curso-de-gnosis.html#/D18 302
+/d19 /curso-de-gnosis.html#/D19 302
+/D19 /curso-de-gnosis.html#/D19 302
+/d20 /curso-de-gnosis.html#/D20 302
+/D20 /curso-de-gnosis.html#/D20 302
+/d21 /curso-de-gnosis.html#/D21 302
+/D21 /curso-de-gnosis.html#/D21 302
+/d22 /curso-de-gnosis.html#/D22 302
+/D22 /curso-de-gnosis.html#/D22 302
+
+# 🌟 ACCESOS DIRECTOS A LAS GRILLAS DE LOS CICLOS principales
+/ciclo-a /curso-de-gnosis.html#/cicloa 302
+/ciclo-A /curso-de-gnosis.html#/cicloa 302
+/CICLO-A /curso-de-gnosis.html#/cicloa 302
+
+/ciclo-b /curso-de-gnosis.html#/ciclob 302
+/ciclo-B /curso-de-gnosis.html#/ciclob 302
+/CICLO-B /curso-de-gnosis.html#/ciclob 302
+
+/ciclo-c /curso-de-gnosis.html#/cicloc 302
+/ciclo-C /curso-de-gnosis.html#/cicloc 302
+/CICLO-C /curso-de-gnosis.html#/cicloc 302
+
+# 🌟 ACCESO DIRECTO AL CICLO D (Peg)
+/peg /curso-de-gnosis.html#/ciclod 302
+/PEG /curso-de-gnosis.html#/ciclod 302
+/PPEG /curso-de-gnosis.html#/ciclod 302
+/ppeg /curso-de-gnosis.html#/ciclod 302

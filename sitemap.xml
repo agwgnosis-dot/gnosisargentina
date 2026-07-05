@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página de Inicio Principal -->
+  <url>
+    <loc>https://agwgnosis.org/</loc>
+    <priority>1.00</priority>
+  </url>
+  
+  <!-- Nueva Página de Extractos de Video -->
+  <url>
+    <loc>https://agwgnosis.org/extractos.html</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Secciones del Temario en la Home -->
+  <url>
+    <loc>https://agwgnosis.org/#temarioA</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://agwgnosis.org/#temarioB</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://agwgnosis.org/#temarioC</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://agwgnosis.org/#international</loc>
+    <priority>0.70</priority>
+  </url>
+</urlset>

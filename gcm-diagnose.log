@@ -1,0 +1,201 @@
+﻿Diagnose log at 2026-06-07T22:01:36Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.7.3+5fa7116896c82164996a609accd1c5ad90fe730a
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+SESSIONNAME=Console
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel
+TMP=C:\Users\lexde\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\lexde\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass-main.js
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\lexde\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\lexde\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Acustica\Framework;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Acustica\Medusa Framework\;c:\Program Files (x86)\Acustica\Framework\;c:\Program Files\Acustica\Framework\;C:\Program Files\Git\cmd;C:\Users\lexde\AppData\Local\Microsoft\WindowsApps;C:\Users\lexde\AppData\Local\Microsoft\WinGet\Links;C:\Users\lexde\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\lexde\AppData\Local\GitHubDesktop\bin
+EFC_13380_1262719628=1
+POWERSHELL_TELEMETRY_OPTOUT=1
+USERPROFILE=C:\Users\lexde
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-0a1257e3ca-sock
+EFC_13380_2283032206=1
+PROCESSOR_REVISION=aa04
+EFC_13380_4126798990=1
+TEMP=C:\Users\lexde\AppData\Local\Temp
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+LOGONSERVER=\\AGW
+TERM=xterm-256color
+USERNAME=lexde
+SystemRoot=C:\WINDOWS
+EFC_13380_3789132940=1
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+EFC_13380_2775293581=1
+PLINK_PROTOCOL=ssh
+OneDrive=C:\Users\lexde\OneDrive
+USERDOMAIN_ROAMINGPROFILE=AGW
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+ProgramData=C:\ProgramData
+LANG=en_US.UTF-8
+GIT_ASKPASS=c:\Users\lexde\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\493597c785d4c5cb\askpass.sh
+HOMEPATH=\Users\lexde
+COMPUTERNAME=AGW
+VSCODE_INJECTION=1
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+__PSLockDownPolicy=0
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\WINDOWS
+GIT_TRACE2_PARENT_SID=adde4565-535c-451c-a068-441965c10402
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=22
+OS=Windows_NT
+ProgramFiles=C:\Program Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+HOME=C:\Users\lexde
+PSModulePath=C:\Users\lexde\OneDrive\Documentos\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+EFC_13380_1592913036=1
+TMPDIR=C:\Users\lexde\AppData\Local\Temp
+APPDATA=C:\Users\lexde\AppData\Roaming
+USERDOMAIN=AGW
+PROCESSOR_LEVEL=6
+LOCALAPPDATA=C:\Users\lexde\AppData\Local
+VSCODE_GIT_ASKPASS_NODE=C:\Users\lexde\AppData\Local\Programs\Microsoft VS Code\Code.exe
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_4332_HPQECDEOCVFEUCKB
+TERM_PROGRAM_VERSION=1.123.0
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=vscode
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\lexde\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\lexde\AppData\Local\Temp\b8cf46878b673ce05384344e'... OK
+Reading from temporary file 'C:\Users\lexde\AppData\Local\Temp\b8cf46878b673ce05384344e'... OK
+Deleting temporary file 'C:\Users\lexde\AppData\Local\Temp\b8cf46878b673ce05384344e'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\lexde
+UserDataDirectoryPath: C:\Users\lexde\.gcm
+GetCurrentDirectory(): C:\Users\lexde\OneDrive\Escritorio\AGW Drive\GitHub\agwgnosis
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:62627/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.54.0.windows.1'
+Locating current repository...Git repository at 'C:/Users/lexde/OneDrive/Escritorio/AGW Drive/GitHub/agwgnosis/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/lexde/.gitconfig	filter.lfs.required=true
+file:C:/Users/lexde/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/lexde/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/lexde/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/lexde/.gitconfig	user.name=AGW
+file:C:/Users/lexde/.gitconfig	user.email=agw.gnosis@gmail.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	submodule.active=.
+file:.git/config	remote.origin.url=https://github.com/agwgnosis-dot/agwgnosis.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.main.vscode-merge-base=origin/main
+file:.git/config	lfs.repositoryformatversion=0
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\lexde\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\lexde\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
