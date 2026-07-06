@@ -97,8 +97,8 @@
     </script>
     
     <meta name="keywords" content="Gnosis, curso gratuito, meditacion, autoconocimiento, tantra sagrado, tantra blanco, psicología, psicosexualidad, Samael Aun Weor, despertar de la conciencia, jean marie claudius, MGI, movimiento gnostico internacional, free online course, meditation, Samael Aun Weor, awakening of consciousness, cours gratuits, tantra, gnose">
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Josefin+Sans:ital,wght@0,300..700;1,300..700&family=Jost:wght@300;400;600&family=Marcellus&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Tangerine:wght@400;700&display=swap" rel="stylesheet">  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Josefin+Sans:ital,wght@0,300..700;1,300..700&family=Jost:wght@300;400;600&family=Marcellus&family=Montserrat+Condensed:wght@400;500;600;700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Tangerine:wght@400;700&display=swap" rel="stylesheet"> 
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">  
     <!-- Google Tag Manager -->
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -118,7 +118,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.25) 40%, rgb(255, 255, 255) 100%), url('imagenes/aulavirtual/columnas.webp');
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.25) 40%, rgb(255, 255, 255) 100%);
     animation: desvanecerBlur 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;}
 
     @keyframes desvanecerBlur {
@@ -140,26 +140,24 @@
             display: flex;
             flex-direction: column;
             min-height: 100vh;
-            scroll-behavior: smooth; /* 🌟 Permite el desplazamiento suave en toda la página */
+            scroll-behavior: smooth; 
         }
         body { 
             position: relative;
-            background-color: #f0f0f0;
+            background-image: linear-gradient(to bottom, rgb(255, 255, 255)1%, #050d18 100%); 
             min-height: 100vh;
-            color: #333; 
             line-height: 1.6;
             }
         body::before {
             content: "";
             position: fixed;
-            top: 0; left: 0;
+            top: 60px; left: 0;
             width: 100%; height: 100%; 
             z-index: -1; 
-            background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.250) 40%, rgb(255, 255, 255) 100%), url('imagenes/aulavirtual/columnas.webp'); 
+            background-image: linear-gradient(to bottom, #000000 , #000000 ); 
             background-repeat: no-repeat; 
             background-position: top center;
             background-size: cover;
-            opacity: 0.55;
             pointer-events: none;
         }
         .menu-lista {
@@ -167,10 +165,10 @@
             margin: 0;
             padding: 0;
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
+            gap: 40px;
             align-items: center;
             flex: 1;
-            max-width: 750px; 
         }
         .menu-lista > li {
             position: relative;
@@ -182,9 +180,9 @@
             z-index: 9999;
             background: #fff;}
         nav {
-            background-image: linear-gradient(rgba(255,255,255,0.65), rgba(255,255,255,0.65)), url('imagenes/fondomenu.jpg');
+            background-image: linear-gradient(#000000, #000000);
             background-repeat: repeat-x; background-position: center;
-            padding: 5px 0;   }
+            padding: 15px 0;   }
 
         .cuerpo {
             max-width: 940px;
@@ -199,8 +197,8 @@
         .logo-menu { height: 45px; width: auto; display: block; }
 
         nav a {
-            font-family: 'Noto Sans', sans-serif;
-            color: #5e0317; letter-spacing: 1px; 
+            font-family: 'Montserrat Condensed', sans-serif;
+            color: #c5c5c5; letter-spacing: 1px; 
             text-decoration: none;
             font-weight: 500; font-size: 15px; 
             transition: all 0.3s ease;
@@ -389,7 +387,15 @@
         .footer-container .footer-col:nth-child(2) { text-align: center; }
         .footer-container .footer-col:nth-child(3) { text-align: right; }
 
-        
+      .img-solyluna {
+            display: block;
+            margin: -60px auto;       /* El 'auto' de los costados la centra perfectamente en pantallas grandes */
+            width: 500px;            /* Tamaño fijo para monitores y exploradores de escritorio */
+            height: 500px;           /* Mantiene la proporción cuadrada exacta de tu archivo */
+            object-fit: contain;     /* Evita cualquier tipo de deformación en los píxeles */
+            max-width: 100%;  
+            z-index: 1;       /* Evita que se desborde accidentalmente */
+        }
 
         /* ============================================================
            MÓDULO RESPONSIVO UNIFICADO (PARA CELULARES)
@@ -428,6 +434,12 @@
 
             .dropdown-content a { 
                 display: block !important; font-size: 18px !important; font-family: 'Marcellus', serif; padding: 12px 16px !important; text-align: left !important; width: auto !important; border-bottom: 1px solid rgba(0,0,0,0.05);
+            }
+
+            .img-solyluna {
+                width: 90%;          /* En celulares pasa a medir el 85% del ancho de la pantalla */
+                height: auto;        /* Hace que la altura se recalcule sola para no verse aplastada */
+                
             }
 
             main { padding-top: 1px ; }
@@ -480,8 +492,6 @@
     <header class="fixed-header">
         <nav id="mainNav">
             <div class="cuerpo">
-                <img src="imagenes/logomgipng.png" alt="Logo MGI" class="logo-menu">
-                
                 <div class="mobile-menu-icon" onclick="toggleMenu()">
                     <i class="fa-solid fa-bars" style="color: #68061C !important;"></i>
                 </div>
@@ -526,7 +536,7 @@
                         <a href="#international"><i class="fa-solid fa-earth-africa"></i>International</a>
                     </li>
                 </ul>    
-                <img src="imagenes/logomgipng.png" alt="Logo MGI" class="logo-menu">
+
             </div>
         </nav>
         <div class="franja-separadora"></div>
@@ -545,7 +555,7 @@
                         </h2>
                     </header>
                 </div>
-                
+                 <img src="imagenes/imgportada/solyluna.png" alt="Sol y Luna - Gnosis" class="img-solyluna">
                 <div class="contenedor-slide">
                     <div class="slider-track" id="dynamicGallery"></div>
                 </div>
